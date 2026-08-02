@@ -3,13 +3,13 @@
 """
 HUMPHREY VIRTUAL FARMS (PROJECT EBONY)
 CLASSIFICATION: REDACTED (PUBLIC FACING)
-SUBJECT: Edge Orchestrator Master Loop (V1.0)
+SUBJECT: Edge Orchestrator Master Loop (V1.1 - INTEGRATED)
 
-STATUS: CORE LOGIC INJECTED - ACTIVE
+STATUS: PIPELINE INTEGRATED - ACTIVE
 
-NOTE: The master hardware polling intervals, pipeline routing variables, 
-and memory management protocols for the NVIDIA bare-metal node have been 
-deployed but remain heavily redacted. 
+NOTE: Version 1.1 successfully links the Swarm Protocol formatters and 
+Cerberus Crypto Engine into a unified execution loop. The proprietary module 
+import structures and memory bridges remain heavily redacted. 
 
-The complete, functional V1.0 execution loop resides securely in the HVF Private Vault.
+The complete, functional V1.1 integrated pipeline resides securely in the HVF Private Vault.
 """
