@@ -9,7 +9,7 @@ STATUS: CORE LOGIC INJECTED - ACTIVE
 
 NOTE: The AES-256-GCM encryption algorithms, TPM hardware mounting 
 protocols, and volatile memory wipe functions (Kinetic Guillotine Integration) 
-have been successfully deployed but remain heavily redacted. 
+have been successfully deployed but remain heavily redacted.  
 
 The complete, functional V1.0 cryptographic engine resides securely in the HVF Private Vault.
 """
