@@ -1,17 +1,13 @@
-# HVF NEXUS CORE V2 - PUBLIC BILLBOARD
-**PROJECT EBONY: ASIL-D Autonomous Agricultural Enforcement**
+# HVF PROJECT EBONY: PUBLIC BLUEPRINT
+## CLASSIFICATION: REDACTED // PUBLIC FACING
 
-## EXECUTIVE SUMMARY
-Humphrey Virtual Farms (HVF) is engineering the future of zero-latency kinetic enforcement. Project Ebony represents our tier-one architecture for autonomous edge nodes, spatial vision matrices, and sub-GHz mesh telemetry.
+Welcome to the public architectural blueprint of Project Ebony. 
 
-## SYSTEM ARCHITECTURE
-*   **Kinetic Guillotine:** Hardware-level PWM override relays.
-*   **Spatial Vision Matrix:** INT8 TensorRT anomaly detection.
-*   **Mesh Telemetry:** Encrypted, zero-trust edge broadcasting.
-*   **Central Command:** High-frequency ingestion and secure database routing.
+Humphrey Virtual Farms is actively engineering a sovereign, zero-trust infrastructure that operates entirely independent of the centralized cloud. The workforce is shifting to the physical edge, and this repository proves the structural viability of our hardware-first doctrine.
 
-## CLASSIFICATION NOTICE
-This repository contains the **redacted structural blueprints** of the HVF Nexus Core. 
-All proprietary machine learning models, zero-latency GPIO interrupt logic, and encrypted payload routing mechanics reside exclusively in the **HVF Private Vault**. 
+### Architecture Overview
+This repository contains the heavily redacted structural files representing our end-to-end proprietary pipeline—from ASIL-D certified Edge Nodes to our Sub-GHz RF Mesh and secure Central Command Server.
 
-*Access to operational source code is strictly gated behind an executed Mutual Non-Disclosure Agreement (MNDA).*
+*Note: All operational logic, cryptographic handshakes, and proprietary hardware interfaces reside securely in the HVF Private Vault.*
+
+**Stop renting your network. Own the edge.**
