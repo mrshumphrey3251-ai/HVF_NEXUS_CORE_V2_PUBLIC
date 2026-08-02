@@ -3,13 +3,14 @@
 """
 HUMPHREY VIRTUAL FARMS (PROJECT EBONY)
 CLASSIFICATION: REDACTED (PUBLIC FACING)
-SUBJECT: Edge Orchestrator Master Loop (V1.1 - INTEGRATED)
+SUBJECT: Edge Orchestrator Master Loop (V1.2 - GUILLOTINE INTEGRATED)
 
 STATUS: PIPELINE INTEGRATED - ACTIVE
 
-NOTE: Version 1.1 successfully links the Swarm Protocol formatters and 
-Cerberus Crypto Engine into a unified execution loop. The proprietary module 
-import structures and memory bridges remain heavily redacted. 
+NOTE: Version 1.2 successfully links the Kinetic Guillotine relay logic 
+directly into the master execution pipeline. The Orchestrator will now 
+automatically halt transmission sequences and actuate physical severance 
+upon threat detection.
 
-The complete, functional V1.1 integrated pipeline resides securely in the HVF Private Vault.
+The complete, functional V1.2 integrated pipeline resides securely in the HVF Private Vault.
 """
