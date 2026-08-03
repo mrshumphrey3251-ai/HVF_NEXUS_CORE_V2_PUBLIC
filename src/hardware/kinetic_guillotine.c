@@ -5,8 +5,9 @@
  * ==============================================================================
  */
 
-#include <stdio criterion.h>
+#include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include <fcntl.h>
 #include <unistd.h>
 #include <sys/mman.h>
@@ -27,7 +28,8 @@ void trigger_kinetic_guillotine(void) {
         // Fallback to sysfs interface if raw dev/mem is locked by kernel config
         int gpio_fd = open("/sys/class/gpio/gpio31/value", O_WRONLY);
         if (gpio_fd >= 0) {
-            write(gpio_fd, "1", 1);
+            ssize_t w = write(gpio_fd, "1", 1);
+            (void)w;
             close(gpio_fd);
         }
     } else {
