@@ -19,7 +19,18 @@ sudo bash ./scripts/rt_kernel_lockdown.sh
 echo "[+] ENGAGING PHASE 15: PRE-FLIGHT FAULT INJECTION & GUILLOTINE TEST..."
 bash ./tests/end_to_end_fault_injection.sh
 
-# 3. Handover to Sovereign Inference Pipeline (Phase 13 & 14)
+# 3. Initialize SEMG Power Orchestration (If Hardware is Present)
+echo "[+] SCANNING FOR PROPRIETARY SEMG POWER MODULE..."
+SEMG_DAEMON="./src/power_semg/unredacted_vault/semg_load_balancer.py"
+if [ -f "$SEMG_DAEMON" ]; then
+    echo "    [OK] SEMG Power Module detected. Igniting predictive load balancer..."
+    python3 "$SEMG_DAEMON" &
+    sleep 2
+else
+    echo "    [WARN] SEMG Module not detected. Running on standard grid power."
+fi
+
+# 4. Handover to Sovereign Inference Pipeline (Phase 13 & 14)
 echo "[+] ========================================================"
 echo "[+] HARDWARE DIAGNOSTICS PASSED. AIR-GAP CONFIRMED."
 echo "[+] ENGAGING ZERO-CLOUD INFERENCE & ZERO-ACK DIODE PIPELINE."
