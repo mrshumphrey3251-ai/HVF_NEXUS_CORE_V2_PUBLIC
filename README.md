@@ -1,13 +1,11 @@
-# HVF PROJECT EBONY: PUBLIC BLUEPRINT
-## CLASSIFICATION: REDACTED // PUBLIC FACING
+# HVF Sovereign Edge Node Architecture V2 [PUBLIC STOREFRONT]
 
-Welcome to the public architectural blueprint of Project Ebony. 
+> **EXECUTIVE SUMMARY:** Zero-trust, off-grid micro-data center blueprints engineered by Humphrey Virtual Farms (HVF).
 
-Humphrey Virtual Farms is actively engineering a sovereign, zero-trust infrastructure that operates entirely independent of the centralized cloud. The workforce is shifting to the physical edge, and this repository proves the structural viability of our hardware-first doctrine.
+## Core Systems Integrated
+- **Sovereign Energy Micro-Grid (SEMG):** Closed-loop 1800 RPM biomass gasification & thermal scavenging.
+- **Zero-Ack Data Diode:** Sub-millisecond unidirectional hardware security bridge with Kinetic Guillotine.
+- **Dark Asset Ingestion:** Offline optical & SDR telemetry intercept for enterprise edge nodes.
 
-### Architecture Overview
-This repository contains the heavily redacted structural files representing our end-to-end proprietary pipeline—from ASIL-D certified Edge Nodes to our Sub-GHz RF Mesh and secure Central Command Server.
-
-*Note: All operational logic, cryptographic handshakes, and proprietary hardware interfaces reside securely in the HVF Private Vault.*
-
-**Stop renting your network. Own the edge.**
+## Enterprise Licensing
+For licensing frameworks and custom deployments, refer to `legal/COMMERCIAL_TERMS.md` or contact: `humphreyvirtualfarm@gmail.com`
