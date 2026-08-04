@@ -7,6 +7,8 @@
 - **Dark Asset Ingestion:** Offline optical & SDR telemetry intercept for enterprise edge nodes.
 - **Air-Gapped AI Vision:** Quantized, on-metal inference processing with zero external API calls.
 - **Zero-Ack Data Diode:** Sub-millisecond unidirectional hardware security bridge with Kinetic Guillotine.
+- **Sovereign Resilience:** Autonomous bare-metal Watchdog for instant self-healing and zero-downtime operations.
+- **Tactical C2:** Air-gapped dashboard for localized executive oversight.
 
 ## Enterprise Licensing
 For licensing frameworks and custom deployments, refer to `legal/COMMERCIAL_TERMS.md` or contact: `humphreyvirtualfarm@gmail.com`
