@@ -11,4 +11,4 @@
 - **Tactical C2:** Air-gapped dashboard for localized executive oversight.
 
 ## Enterprise Licensing
-For licensing frameworks and custom deployments, refer to `legal/COMMERCIAL_TERMS.md` or contact: `humphreyvirtualfarm@gmail.com`
+For licensing frameworks and custom deployments, refer to legal/COMMERCIAL_TERMS.md or contact: humphreyvirtualfarm@gmail.com
