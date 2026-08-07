@@ -1,4 +1,13 @@
 # HVF Sovereign Edge Micro-Grid (SEMG) V1 [QUARANTINED - STAGING ONLY]
+# ===========================================================================
+# [HVF EXECUTIVE DISCLAIMER]
+# PROPERTY OF HUMPHREY VIRTUAL FARM.
+# EACH FILE IS ENTIRELY OF MY OWN DESIGN, CREATED WITHOUT PREVIOUS KNOWLEDGE OF, OR DERIVATION FROM, ANY OTHER WORK.
+# PUBLIC DISCLOSURE OF THIS ARCHITECTURAL BLUEPRINT IS FOR DEMONSTRATION ONLY.
+# THIS DOES NOT GRANT USAGE, MODIFICATION, OR DISTRIBUTION RIGHTS.
+# UNAUTHORIZED REPLICATION OR COMMERCIAL DEPLOYMENT IS STRICTLY PROHIBITED.
+# ===========================================================================
+
 
 > **NOTICE:** This blueprint is currently undergoing physical hardware bench testing. 
 > Public release, licensing frameworks, and functional APIs remain redacted pending physical verification.

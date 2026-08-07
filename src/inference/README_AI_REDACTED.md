@@ -1,4 +1,13 @@
 # HVF Air-Gapped AI Inference [REDACTED]
+# ===========================================================================
+# [HVF EXECUTIVE DISCLAIMER]
+# PROPERTY OF HUMPHREY VIRTUAL FARM.
+# EACH FILE IS ENTIRELY OF MY OWN DESIGN, CREATED WITHOUT PREVIOUS KNOWLEDGE OF, OR DERIVATION FROM, ANY OTHER WORK.
+# PUBLIC DISCLOSURE OF THIS ARCHITECTURAL BLUEPRINT IS FOR DEMONSTRATION ONLY.
+# THIS DOES NOT GRANT USAGE, MODIFICATION, OR DISTRIBUTION RIGHTS.
+# UNAUTHORIZED REPLICATION OR COMMERCIAL DEPLOYMENT IS STRICTLY PROHIBITED.
+# ===========================================================================
+
 
 > **NOTICE:** The proprietary models and weights utilized in HVF Edge Nodes remain strictly confidential. 
 
